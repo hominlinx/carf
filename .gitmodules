@@ -2,3 +2,7 @@
 	path = lib1
 	url = git://github.com/hominlinx/lib1.git
 	branch = dev
+[submodule "dev"]
+	path = dev
+	url = git://github.com/hominlinx/lib1.git
+	branch = dev
